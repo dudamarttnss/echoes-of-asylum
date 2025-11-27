@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cat walkin_0: -1870336998630963104
+      cat walkin_1: 414041171563401237
+      cat walkin_2: 7995695603717970183
+      cat walkin_3: -5265741533408730293
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

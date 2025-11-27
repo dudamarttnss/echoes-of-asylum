@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gato idle_0: -3775394349228946644
+      gato idle_1: -6861380449807364238
+      gato idle_2: -723449283879204730
+      gato idle_3: 8871006103115066633
+      gato idle_4: 4718618932712721900
+      gato idle_5: 7788331199979699726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
